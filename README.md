@@ -8,7 +8,7 @@ metodologias, para que ocorra munetenção com facilidade.
 
 
 - 💭 "No fim tudo dá certo, e se não deu certo é porque ainda não chegou ao fim."  Fernando Sabino
-- 📫 Contate-me no E-mail: fabricio.ss09@outlook.com - (71) 99254-0403
+- 📫 Contate-me no E-mail: fabricio.ss09@outlook.com 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
