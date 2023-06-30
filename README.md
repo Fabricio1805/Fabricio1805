@@ -1,12 +1,5 @@
 ### Olá! Eu sou o Fabricio 👋
 
-
-- 🌱 Chegou um tempo em minha carreira como desenvolvedor que percebi que
-desenvolver não é só sair codando feito um louco e sim, entender e resolver
-problemas da melhor forma possível, com as melhores técnicas e
-metodologias, para que ocorra munetenção com facilidade.
-
-
 - 💭 "No fim tudo dá certo, e se não deu certo é porque ainda não chegou ao fim."  Fernando Sabino
 - 📫 Contate-me no E-mail: fabricio.ss09@outlook.com 
 
