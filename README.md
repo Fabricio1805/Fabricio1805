@@ -17,5 +17,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg">
-  
+  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
 </div>
