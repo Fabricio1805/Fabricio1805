@@ -22,4 +22,9 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg">
   <img align="center" alt="angular" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg">
+    <img align="center" alt="angular" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg">  
+  <img align="center" alt="angular" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg">
+   <img align="center" alt="angular" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg">
+
+  
 </div>
