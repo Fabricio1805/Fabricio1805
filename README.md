@@ -33,5 +33,6 @@ align-items:center;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="40">
 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" width="40">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="40">
 
 </div>
